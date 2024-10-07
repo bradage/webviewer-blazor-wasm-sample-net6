@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApryseBlazoreWebAssemblyTest.Server", "ApryseBlazoreWebAssemblyTest\Server\ApryseBlazoreWebAssemblyTest.Server.csproj", "{1E809971-E75E-46E0-A3A1-4CB75BD866F4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApryseBlazoreWebAssemblyTest.Client", "ApryseBlazoreWebAssemblyTest\Client\ApryseBlazoreWebAssemblyTest.Client.csproj", "{B0315C07-D5DD-4624-94C6-98A5E29B1B6A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApryseBlazoreWebAssemblyTest.Shared", "ApryseBlazoreWebAssemblyTest\Shared\ApryseBlazoreWebAssemblyTest.Shared.csproj", "{F78D29AB-A46F-4AFF-A9F0-B53EAB1392B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E809971-E75E-46E0-A3A1-4CB75BD866F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E809971-E75E-46E0-A3A1-4CB75BD866F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E809971-E75E-46E0-A3A1-4CB75BD866F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E809971-E75E-46E0-A3A1-4CB75BD866F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0315C07-D5DD-4624-94C6-98A5E29B1B6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0315C07-D5DD-4624-94C6-98A5E29B1B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0315C07-D5DD-4624-94C6-98A5E29B1B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0315C07-D5DD-4624-94C6-98A5E29B1B6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F78D29AB-A46F-4AFF-A9F0-B53EAB1392B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F78D29AB-A46F-4AFF-A9F0-B53EAB1392B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F78D29AB-A46F-4AFF-A9F0-B53EAB1392B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F78D29AB-A46F-4AFF-A9F0-B53EAB1392B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9FB3A09-9346-4E21-9E04-F9806D515300}
+	EndGlobalSection
+EndGlobal
